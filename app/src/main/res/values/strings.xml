@@ -3,5 +3,5 @@
     <string name="click_me">Click me</string>
     <string name="text">Hello!</string>
 
-    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyATYN71NJXwQdY8wGJifKI3O_k_7oNWGg4</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">some_google_maps_key</string>
 </resources>
